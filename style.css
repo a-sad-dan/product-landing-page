@@ -31,7 +31,7 @@ footer {
 header a {
     text-decoration: none;
     color: var(--grey);
-    margin: 12px 0px;
+    margin-left: 24px;
 
 }
 
@@ -100,7 +100,7 @@ header a {
 }
 
 .signup {
-    padding: 8px 16px;
+    padding: 6px 18px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
@@ -159,7 +159,7 @@ header a {
 
 .banner {
     background-color: #3882F6;
-    padding: 24px 120px;
+    padding: 40px 120px;
     border-radius: 12px;
     color: var(--white);
     display: flex;
